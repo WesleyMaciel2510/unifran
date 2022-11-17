@@ -2,7 +2,7 @@
   "name": "unifran-filmes",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://wesleymaciel2510.github.io/unifranfilmes/",
+  "homepage": "unifranfilmes",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
